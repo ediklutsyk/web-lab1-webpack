@@ -1,0 +1,7 @@
+/*!
+ * GMaps.js v0.4.21
+ * http://hpneo.github.com/gmaps/
+ *
+ * Copyright 2015, Gustavo Leon
+ * Released under the MIT License.
+ */
